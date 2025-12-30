@@ -3,11 +3,10 @@
 An alkaline anion exchange membrane (AEM) structure parsing and performance grading tool based on the **SPARK** model (Graph Attention Network dual-channel encoding + FiLM fusion + knowledge embedding), capable of simultaneously outputting prediction results, visualizing attention weights, and generating comprehensive reports.
 
 ##  Downloads
-
 | Resource | Version / Description | Download Link | Size |
 | :--- | :--- | :--- | :--- |
 | **Software Installer** | v1.0 Stable Release | [SPARK_Setup_v1.0.exe](https://github.com/CH324955/SPARK-AEM/raw/master/SPARK_Setup_v1.0.exe) | 328 MB |
-| **Tutorial Video** | Installation & Usage Guide | [SPARK_Tutorial.mp4](https://github.com/CH324955/SPARK-AEM/releases/download/v1.0/SPARK_Tutorial.mp4) | 52 MB |
+| **Tutorial Video** | Installation & Usage Guide | [SPARK_Tutorial.mp4](https://github.com/CH324955/SPARK-AEM/releases/download/v1.0/SPARK_video.mp4) | 52 MB |
 
 
 ## 1. Overview
